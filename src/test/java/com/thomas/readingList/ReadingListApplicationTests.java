@@ -1,4 +1,4 @@
-package com.thomas.readingList;
+package com.thomas.readinglist;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
